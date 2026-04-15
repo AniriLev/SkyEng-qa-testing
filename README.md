@@ -10,4 +10,12 @@ This project demonstrates my skills in:
 - API testing
 - AI-assisted testing
 
+  QA-Project/
+├── TestCases/
+├── BugReports/
+├── LQA/
+├── API/
+├── AI-Analysis/
+└── README.md
+
 
